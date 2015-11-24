@@ -1,6 +1,4 @@
 # Hangman666
-# Hangman 666
-
 The player hating version of the age-old game of hangman!
 
 - How-to-play same as regular hangman
